@@ -14,11 +14,13 @@ namespace KataProd
 
         public string GenerateBandName(string input)
         {
+            var substring = input.Substring(1);
+            var upper = input[0].ToString().ToUpper();
             if (input[0] == input[input.Length-1])
             {
-                return input[0].ToString().ToUpper() + input.Substring(1) + input.Substring(1);
+                return upper + substring + substring;
             }
-            return "The " + input[0].ToString().ToUpper() + input.Substring(1);
+            return "The " + upper + substring;
         }
     }
 }
