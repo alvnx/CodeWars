@@ -15,5 +15,14 @@ namespace Kata
             int expect = 0;
             Assert.AreEqual(expect, Counter.Calculator(input));
         }
+
+        [TestMethod]
+        public void CountingDuplicate_aabbcde()
+        {
+            var Counter = new CountingDuplicates();
+            string input = "aabbcde";
+            int expect = 2;
+            Assert.AreEqual(expect, Counter.Calculator(input));
+        }
     }
 }
