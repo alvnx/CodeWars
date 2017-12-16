@@ -14,8 +14,7 @@ namespace KataProd
 
         public string GenerateBandName(string input)
         {
-            var length = input.Length;
-            if (input.Substring(0, 1) == input.Substring(length - 1, 1))
+            if (input[0] == input[input.Length-1])
             {
                 return input[0].ToString().ToUpper() + input.Substring(1) + input.Substring(1);
             }
