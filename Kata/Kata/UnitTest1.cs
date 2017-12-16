@@ -24,5 +24,7 @@ namespace Kata
             string expect = "Tartart";
             Assert.AreEqual(expect, Generator.GenerateBandName(input));
         }
+
+
     }
 }
