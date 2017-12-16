@@ -10,6 +10,7 @@ namespace KataProd
     {
         public int Calculator(string input)
         {
+            input = input.ToLower();
             var count = 0;
             foreach (char c in input)
             {
