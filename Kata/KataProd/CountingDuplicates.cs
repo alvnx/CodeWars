@@ -10,7 +10,16 @@ namespace KataProd
     {
         public int Calculator(string input)
         {
-            return 0;
+            var count = 0;
+            foreach (char c in input)
+            {
+                if (input.Count(x => x == c) > 1)
+                {
+                    count++;
+                }
+                input = input.Trim(c);
+            }
+            return count;
         }
     }
 }
