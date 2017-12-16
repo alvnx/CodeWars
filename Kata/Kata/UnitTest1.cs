@@ -25,6 +25,13 @@ namespace Kata
             Assert.AreEqual(expect, Generator.GenerateBandName(input));
         }
 
-
+        [TestMethod]
+        public void BandNameGeneratorSandlesandles()
+        {
+            var Generator = new BandNameGenerator();
+            string input = "sandles";
+            string expect = "Sandlesandles";
+            Assert.AreEqual(expect, Generator.GenerateBandName(input));
+        }
     }
 }
