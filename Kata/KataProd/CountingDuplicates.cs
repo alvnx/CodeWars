@@ -11,6 +11,7 @@ namespace KataProd
         public int Calculator(string input)
         {
             input = input.ToLower();
+
             var count = 0;
             foreach (char c in input)
             {
@@ -18,7 +19,7 @@ namespace KataProd
                 {
                     count++;
                 }
-                input = input.Trim(c);
+                input = input.Replace(c.ToString(),"");
             }
             return count;
         }

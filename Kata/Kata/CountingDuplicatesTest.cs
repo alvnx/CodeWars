@@ -33,5 +33,14 @@ namespace Kata
             int expect = 2;
             Assert.AreEqual(expect, Counter.Calculator(input));
         }
+
+        [TestMethod]
+        public void CountingDuplicate_Indivisibility()
+        {
+            var Counter = new CountingDuplicates();
+            string input = "Indivisibility";
+            int expect = 1;
+            Assert.AreEqual(expect, Counter.Calculator(input));
+        }
     }
 }
