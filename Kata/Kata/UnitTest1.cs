@@ -11,7 +11,7 @@ namespace Kata
         public void BandNameGeneratorKnife()
         {
             var Generator =new BandNameGenerator();
-            string input = "Knife";
+            string input = "knife";
             string expect = "The Knife";
             Assert.AreEqual(expect, Generator.GenerateBandName(input));
         }
@@ -31,6 +31,15 @@ namespace Kata
             var Generator = new BandNameGenerator();
             string input = "sandles";
             string expect = "Sandlesandles";
+            Assert.AreEqual(expect, Generator.GenerateBandName(input));
+        }
+
+        [TestMethod]
+        public void BandNameGeneratorBed()
+        {
+            var Generator = new BandNameGenerator();
+            string input = "bed";
+            string expect = "The Bed";
             Assert.AreEqual(expect, Generator.GenerateBandName(input));
         }
     }

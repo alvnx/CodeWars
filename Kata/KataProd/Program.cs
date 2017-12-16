@@ -19,7 +19,7 @@ namespace KataProd
             {
                 return input[0].ToString().ToUpper() + input.Substring(1) + input.Substring(1);
             }
-            return "The " + input;
+            return "The " + input[0].ToString().ToUpper() + input.Substring(1);
         }
     }
 }
