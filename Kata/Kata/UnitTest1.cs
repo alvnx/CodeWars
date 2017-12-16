@@ -1,4 +1,5 @@
 ﻿using System;
+using KataProd;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Kata
@@ -7,8 +8,12 @@ namespace Kata
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void BandNameGeneratorKnife()
         {
+            var Generator =new BandNameGenerator();
+            string input = "Knife";
+            string expect = "The Knife";
+            Assert.AreEqual(expect, Generator.GenerateBandName(input));
         }
     }
 }

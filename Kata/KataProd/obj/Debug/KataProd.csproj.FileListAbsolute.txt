@@ -1,0 +1,7 @@
+C:\Users\cloud.chen63\Desktop\Alvin\CodeWars\Kata\KataProd\bin\Debug\KataProd.exe.config
+C:\Users\cloud.chen63\Desktop\Alvin\CodeWars\Kata\KataProd\bin\Debug\KataProd.exe
+C:\Users\cloud.chen63\Desktop\Alvin\CodeWars\Kata\KataProd\bin\Debug\KataProd.pdb
+C:\Users\cloud.chen63\Desktop\Alvin\CodeWars\Kata\KataProd\obj\Debug\KataProd.csprojResolveAssemblyReference.cache
+C:\Users\cloud.chen63\Desktop\Alvin\CodeWars\Kata\KataProd\obj\Debug\KataProd.csproj.CoreCompileInputs.cache
+C:\Users\cloud.chen63\Desktop\Alvin\CodeWars\Kata\KataProd\obj\Debug\KataProd.exe
+C:\Users\cloud.chen63\Desktop\Alvin\CodeWars\Kata\KataProd\obj\Debug\KataProd.pdb

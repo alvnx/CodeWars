@@ -1,15 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace KataProd
 {
-    class Program
+    public class BandNameGenerator
     {
         static void Main(string[] args)
         {
+        }
+
+        public string GenerateBandName(string input)
+        {
+            return "The " + input;
         }
     }
 }
