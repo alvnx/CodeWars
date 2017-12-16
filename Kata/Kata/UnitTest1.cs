@@ -15,5 +15,14 @@ namespace Kata
             string expect = "The Knife";
             Assert.AreEqual(expect, Generator.GenerateBandName(input));
         }
+
+        [TestMethod]
+        public void BandNameGeneratorTartart()
+        {
+            var Generator = new BandNameGenerator();
+            string input = "tart";
+            string expect = "Tartart";
+            Assert.AreEqual(expect, Generator.GenerateBandName(input));
+        }
     }
 }
