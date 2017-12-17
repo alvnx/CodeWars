@@ -7,8 +7,8 @@
     <ProjectGuid>{4CD9A383-8CA3-4E21-BBAB-258E9051BE6A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Kata</RootNamespace>
-    <AssemblyName>Kata</AssemblyName>
+    <RootNamespace>KataTest</RootNamespace>
+    <AssemblyName>KataTest</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,7 +56,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\KataProd\Kata.csproj">
+    <ProjectReference Include="..\Kata\Kata.csproj">
       <Project>{df9cfa21-6ed8-49ca-bf14-87d384acb906}</Project>
       <Name>Kata</Name>
     </ProjectReference>
