@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Kata
 {
     [TestClass]
-    public class UnitTest1
+    public class BandNameGeneratorTest
     {
         [TestMethod]
         public void BandNameGeneratorKnife()
