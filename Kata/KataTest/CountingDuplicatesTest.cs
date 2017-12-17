@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using KataProd;
+using Kata;
 
-namespace Kata
+namespace KataTest
 {
     [TestClass]
     public class CountingDuplicatesTest

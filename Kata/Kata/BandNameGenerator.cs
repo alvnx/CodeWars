@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KataProd
+namespace Kata
 {
     public class BandNameGenerator
     {

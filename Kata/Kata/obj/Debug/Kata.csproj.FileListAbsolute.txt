@@ -5,3 +5,9 @@ C:\Users\Alvin\Source\Repos\CodeWars\Kata\KataProd\obj\Debug\Kata.csprojResolveA
 C:\Users\Alvin\Source\Repos\CodeWars\Kata\KataProd\obj\Debug\Kata.csproj.CoreCompileInputs.cache
 C:\Users\Alvin\Source\Repos\CodeWars\Kata\KataProd\obj\Debug\KataProd.exe
 C:\Users\Alvin\Source\Repos\CodeWars\Kata\KataProd\obj\Debug\KataProd.pdb
+C:\Users\Alvin\Source\Repos\CodeWars\Kata\Kata\bin\Debug\Kata.exe.config
+C:\Users\Alvin\Source\Repos\CodeWars\Kata\Kata\bin\Debug\Kata.exe
+C:\Users\Alvin\Source\Repos\CodeWars\Kata\Kata\bin\Debug\Kata.pdb
+C:\Users\Alvin\Source\Repos\CodeWars\Kata\Kata\obj\Debug\Kata.csproj.CoreCompileInputs.cache
+C:\Users\Alvin\Source\Repos\CodeWars\Kata\Kata\obj\Debug\Kata.exe
+C:\Users\Alvin\Source\Repos\CodeWars\Kata\Kata\obj\Debug\Kata.pdb

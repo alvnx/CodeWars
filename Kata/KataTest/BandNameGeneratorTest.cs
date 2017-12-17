@@ -1,8 +1,8 @@
 ﻿using System;
-using KataProd;
+using Kata;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Kata
+namespace KataTest
 {
     [TestClass]
     public class BandNameGeneratorTest

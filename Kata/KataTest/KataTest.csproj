@@ -49,12 +49,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BandNameGeneratorTest.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CountingDuplicatesTest.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Kata\Kata.csproj">
       <Project>{df9cfa21-6ed8-49ca-bf14-87d384acb906}</Project>
