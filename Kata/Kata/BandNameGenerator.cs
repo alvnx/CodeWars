@@ -10,6 +10,7 @@ namespace Kata
     {
         static void Main(string[] args)
         {
+
         }
 
         public string GenerateBandName(string input)
