@@ -10,7 +10,7 @@ namespace KataTest
         [TestMethod]
         public void BandNameGeneratorKnife()
         {
-            var Generator =new BandNameGenerator();
+            var Generator = new BandNameGenerator();
             string input = "knife";
             string expect = "The Knife";
             Assert.AreEqual(expect, Generator.GenerateBandName(input));
