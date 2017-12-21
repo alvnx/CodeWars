@@ -12,7 +12,7 @@ namespace DeadAntsTest
             var CountDeadAnts = new DeadAnts();
             string input = "ant ant ant ant";
             int expect = 0;
-            Assert.AreEqual(expect, CountDeadAnts.DeadAntsCount(input));
+            Assert.AreEqual(expect, CountDeadAnts.DeadAntCount(input));
         }
 
         [TestMethod]
@@ -21,7 +21,7 @@ namespace DeadAntsTest
             var CountDeadAnts = new DeadAnts();
             string input = null;
             int expect = 0;
-            Assert.AreEqual(expect, CountDeadAnts.DeadAntsCount(input));
+            Assert.AreEqual(expect, CountDeadAnts.DeadAntCount(input));
         }
 
         [TestMethod]
@@ -30,7 +30,7 @@ namespace DeadAntsTest
             var CountDeadAnts = new DeadAnts();
             string input = "ant anantt aantnt";
             int expect = 2;
-            Assert.AreEqual(expect, CountDeadAnts.DeadAntsCount(input));
+            Assert.AreEqual(expect, CountDeadAnts.DeadAntCount(input));
         }
 
         [TestMethod]
@@ -39,7 +39,7 @@ namespace DeadAntsTest
             var CountDeadAnts = new DeadAnts();
             string input = "ant ant .... a nt";
             int expect = 1;
-            Assert.AreEqual(expect, CountDeadAnts.DeadAntsCount(input));
+            Assert.AreEqual(expect, CountDeadAnts.DeadAntCount(input));
         }
     }
 }

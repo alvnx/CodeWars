@@ -14,8 +14,8 @@ C:\Users\Alvin\Source\Repos\CodeWars\Kata\Kata\obj\Debug\Kata.pdb
 C:\Users\alvin.leong93\Source\Repos\CodeWars\Kata\Kata\bin\Debug\Kata.exe.config
 C:\Users\alvin.leong93\Source\Repos\CodeWars\Kata\Kata\bin\Debug\Kata.exe
 C:\Users\alvin.leong93\Source\Repos\CodeWars\Kata\Kata\bin\Debug\Kata.pdb
-C:\Users\alvin.leong93\Source\Repos\CodeWars\Kata\Kata\obj\Debug\Kata.csprojResolveAssemblyReference.cache
 C:\Users\alvin.leong93\Source\Repos\CodeWars\Kata\Kata\obj\Debug\Kata.csproj.CoreCompileInputs.cache
 C:\Users\alvin.leong93\Source\Repos\CodeWars\Kata\Kata\obj\Debug\Kata.exe
 C:\Users\alvin.leong93\Source\Repos\CodeWars\Kata\Kata\obj\Debug\Kata.pdb
 C:\Users\Alvin\Source\Repos\CodeWars\Kata\Kata\obj\Debug\Kata.csprojResolveAssemblyReference.cache
+C:\Users\alvin.leong93\source\repos\CodeWars\Kata\Kata\obj\Debug\Kata.csprojResolveAssemblyReference.cache
